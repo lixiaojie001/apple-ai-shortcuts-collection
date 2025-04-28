@@ -1,4 +1,5 @@
-# Apple AI Shortcuts Collection (AI 快捷指令合集)
+# apple-ai-shortcuts-collection （AI快捷指令合集）
+
 
 欢迎来到 Apple AI Shortcuts Collection 项目！本项目旨在将强大的人工智能（AI）功能打包成一系列快捷指令（Shortcuts），方便你在苹果设备上使用，为你提供更智能、更便捷的操作体验。
 ![image](https://github.com/user-attachments/assets/0f80cd7a-11a2-41c2-be8f-713333827daf)
