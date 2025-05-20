@@ -1,6 +1,6 @@
 # apple-ai-shortcuts-collection （AI快捷指令合集）
 
-<div style="text-align: center;">[**访问 AI Shortcuts 官方网站**](https://www.aishortcuts.cloud/) | [**官方小红书**](https://www.xiaohongshu.com/user/profile/5dc5841f000000000100838c)</div>
+<div align="center">[**访问 AI Shortcuts 官方网站**](https://www.aishortcuts.cloud/) | [**官方小红书**](https://www.xiaohongshu.com/user/profile/5dc5841f000000000100838c)</div>
 
 欢迎来到 Apple AI Shortcuts Collection 项目！本项目旨在将强大的人工智能（AI）功能打包成一系列快捷指令（Shortcuts），方便你在苹果设备上使用，为你提供更智能、更便捷的操作体验。
 ![image](https://github.com/user-attachments/assets/0f80cd7a-11a2-41c2-be8f-713333827daf)
