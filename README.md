@@ -1,15 +1,16 @@
+
+
+![image](https://github.com/user-attachments/assets/a60a7576-efcc-4ab0-bb65-cdc01193a189)
 # apple-ai-shortcuts-collection （AI快捷指令合集）
+欢迎来到 Apple AI Shortcuts Collection 项目！本项目旨在将强大的人工智能（AI）功能打包成一系列快捷指令（Shortcuts），方便你在苹果设备上使用，为你提供更智能、更便捷的操作体验。  
 
-<div align="center">[**访问 AI Shortcuts 官方网站**](https://www.aishortcuts.cloud/) | [**官方小红书**](https://www.xiaohongshu.com/user/profile/5dc5841f000000000100838c)</div>
+获取最新的快捷指令链接及使用方法可以前往我们的网站[**官方网站**](https://www.aishortcuts.cloud/) | [**小红书**](https://www.xiaohongshu.com/user/profile/5dc5841f000000000100838c)
 
-欢迎来到 Apple AI Shortcuts Collection 项目！本项目旨在将强大的人工智能（AI）功能打包成一系列快捷指令（Shortcuts），方便你在苹果设备上使用，为你提供更智能、更便捷的操作体验。
-![image](https://github.com/user-attachments/assets/0f80cd7a-11a2-41c2-be8f-713333827daf)
 
-**请注意：** 本项目并非开源项目，此处不提供源代码。我们提供的是一系列功能强大、开箱即用的 AI 快捷指令产品。
 
 ## 什么是AI+快捷指令?
 
-结合 AI 的快捷指令具备以下优势：
+![image](https://github.com/user-attachments/assets/64e13d36-ccb0-4e22-b088-bc4ed9864170)
 
 * **原生轻量，无需额外下载应用:** 快捷指令集成于苹果系统，无需安装额外应用即可实现复杂功能，让设备更轻量高效。
 * **AI赋能，焕发新生:** AI 全面改造快捷指令，从简单工具升级为强大的 AI 助手，告别"可有可无"的尴尬定位。
@@ -46,8 +47,6 @@
 
 ## 如何获取和使用？
 
-你可以访问我们的[**官方网站**](https://www.aishortcuts.cloud/)或[**官方小红书**](https://www.xiaohongshu.com/user/profile/5dc5841f000000000100838c)了解更多详情，并获取这些强大的 AI 快捷指令。在网站上，你可以找到所有可用快捷指令的详细介绍、使用方法以及安装链接。
+你可以访问我们的[**官方网站**](https://www.aishortcuts.cloud/)或[**小红书**](https://www.xiaohongshu.com/user/profile/5dc5841f000000000100838c)了解更多详情，并获取这些强大的 AI 快捷指令。在网站上，你可以找到所有可用快捷指令的详细介绍、使用方法以及安装链接。
 
 ---
-
-感谢你对 Apple AI Shortcuts Collection 项目的关注！我们致力于不断创新，为你带来更多实用的 AI 功能。
